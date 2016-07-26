@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace skbTextEditor {
     class Program {
-        static void Main(string[] args) {
+        static void Main(string[] args)
+        {
+            var editor = new EditorEngine();
+            editor.InitializeWordsAndPrefixCollection("test.in");
+            Console.ReadLine();
         }
     }
 }

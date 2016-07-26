@@ -1,2 +1,7 @@
 c:\Users\root\Desktop\Developer Studio\Store\git\skbTextEditor\skbTextEditor\bin\Debug\skbTextEditor.exe.config
 C:\Users\root\Desktop\Developer Studio\GitHub\skbTextEditor\skbTextEditor\skbTextEditor\bin\Debug\skbTextEditor.exe.config
+C:\Users\root\Desktop\Developer Studio\GitHub\skbTextEditor\skbTextEditor\skbTextEditor\bin\Debug\skbTextEditor.exe
+C:\Users\root\Desktop\Developer Studio\GitHub\skbTextEditor\skbTextEditor\skbTextEditor\bin\Debug\skbTextEditor.pdb
+C:\Users\root\Desktop\Developer Studio\GitHub\skbTextEditor\skbTextEditor\skbTextEditor\obj\Debug\skbTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Developer Studio\GitHub\skbTextEditor\skbTextEditor\skbTextEditor\obj\Debug\skbTextEditor.exe
+C:\Users\root\Desktop\Developer Studio\GitHub\skbTextEditor\skbTextEditor\skbTextEditor\obj\Debug\skbTextEditor.pdb
